@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hi, I’m Kumkum 👋
+
+A Computer Science student building a strong foundation in programming and problem-solving.  
+Focused on **writing clean, scalable code** and developing real-world projects.
+
+---
+
+## 🚀 Currently Working On
+- Python fundamentals & projects  
+- **Data Structures & Algorithms (DSA)**  
+- Command-line tools & mini-projects  
+- Problem-solving practice on HackerRank & LeetCode  
+
+---
+
+## 🛠 Tools & Technologies
+- **Python**  
+- **Git & GitHub**  
+- **VS Code / Online Compilers**  
+- **Data Structures & Algorithms**  
+
+---
 
 <!--
 **Kumkumx/Kumkumx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
