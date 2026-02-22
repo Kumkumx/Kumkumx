@@ -5,7 +5,7 @@ Focused on **writing clean, scalable code** and developing real-world projects.
 
 ---
 
-## 🚀 Currently Working On
+### 🚀 Currently Working On
 - Python fundamentals & projects  
 - **Data Structures & Algorithms (DSA)**  
 - Command-line tools & mini-projects  
@@ -13,7 +13,7 @@ Focused on **writing clean, scalable code** and developing real-world projects.
 
 ---
 
-## 🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 - **Python**  
 - **Git & GitHub**  
 - **VS Code / Online Compilers**  
